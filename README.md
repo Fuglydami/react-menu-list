@@ -1,5 +1,7 @@
 # react-menu-list
 
+<<<<<<< HEAD
+
 see live here https://react-menu-list.vercel.app/
 
 output:
